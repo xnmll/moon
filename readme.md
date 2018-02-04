@@ -7,10 +7,9 @@
 
 ```
 .
-├── notes                 … 笔记    
-├── sign in               … 签到表 
-├── the literature        … 文献资料 
-├── word                  … 单词本   
+├── linux                 … linux   
+├── python                … python 
+├── ssh                   … 三大框架   
 ├── LICENSE               … 许可
 └── readme.md             … 说明文档
 ```
